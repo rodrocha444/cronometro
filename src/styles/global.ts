@@ -3,7 +3,7 @@ import { createGlobalStyle } from 'styled-components'
 export const GlobalStyle = createGlobalStyle`
   @font-face {
     font-family: DsDigit;
-    src: url('src/fonts/DS-DIGII.TTF');
+    src: url('src/assets/fonts/DS-DIGII.TTF');
   }
   *{
     padding: 0;
